@@ -4,8 +4,8 @@ The references and materials for "Deep Learning in Smart Grid Technology: A Revi
 ## 1. Citation
 Use this bibtex to cite this repository:
 
-@ARTICLE{9198225,
-  author={Massaoudi. {M} et al},
+@ARTICLE{xx,
+  author={Massaoudi. {Mohamed} et al},
   journal={Journal of Modern Power Systems and Clean Energy}, 
   title={Deep Learning in Smart Grid Technology: A Review of Recent Advancements and Future Prospects}, 
   year={2021},
