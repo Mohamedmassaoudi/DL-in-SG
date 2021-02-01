@@ -82,3 +82,25 @@ Use this bibtex to cite this repository:
 
 - CGAE	[Convolutional Graph Autoencoder: A Generative Deep Neural Network for Probabilistic Spatio-Temporal Solar Irradiance Forecasting](https://ieeexplore.ieee.org/abstract/document/8663347)
 
+
+  ## 2. DL models usage.
+  The frequency of usage of DL models is taken from [Web of science](https://apps.webofknowledge.com/WOS_GeneralSearch_input.do?product=WOS&search_mode=GeneralSearch&SID=C1vyxQ2WRo91BDsgaqd&preferencesSaved=) from 01/01/2015-01/02/2021 using the following keywords: "Model", "power systems"
+  
+| Model     | Usage Frequency|			
+| ---      | ---       |			
+| 	MLP	| 	236	| 
+| 	CN	| 	47	| 
+| 	CNN	| 	2764	| 
+| 	LSTM	| 	1100	| 
+| 	GRU	| 	155	| 
+| 	DRL	| 	477	| 
+| 	RBM	| 	105	| 
+| 	AE	| 	342	| 
+| 	GAN	| 	211	| 
+| 	DBN	| 	212	| 
+| 	RNN	| 	1084	| 
+| 	SNN	| 	573	| 
+| 	GNN	| 	223	| 
+
+  
+  
