@@ -103,5 +103,6 @@ The frequency of usage of DL models is taken from [Web of science](https://apps.
 | 	SNN	| 	573	| 
 | 	GNN	| 	223	| 
 
+## 3. Research Methodology
 The methodology of this review is given in 
 ![Alt text](https://github.com/Mohamedmassaoudi/DL-in-SG/blob/main/Methodology.png)
