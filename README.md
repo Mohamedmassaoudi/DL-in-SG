@@ -1,7 +1,7 @@
 # Deep Learning in Smart Grid Technology: A Review of Recent Advancements and Future Prospects
 The references and materials for "Deep Learning in Smart Grid Technology: A Review of Recent Advancements and Future Prospects".
 
-## Citation
+## 1. Citation
 Use this bibtex to cite this repository:
 
 @ARTICLE{9198225,
