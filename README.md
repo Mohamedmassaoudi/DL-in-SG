@@ -46,7 +46,7 @@ Use this bibtex to cite this repository:
 
 - BB-RBM	[Improved Deep Belief Network for Short-Term Load Forecasting Considering Demand-Side Management](https://ieeexplore.ieee.org/abstract/document/8854896)
 
-- SASLN	SASLN: [Signals Augmented Self-Taught Learning Networks for Mechanical Fault Diagnosis Under Small Sample Condition](https://ieeexplore.ieee.org/abstract/document/9285302)
+- SASLN: [Signals Augmented Self-Taught Learning Networks for Mechanical Fault Diagnosis Under Small Sample Condition](https://ieeexplore.ieee.org/abstract/document/9285302)
 
 - WGANGP	[Generative adversarial networks and convolutional neural networks based weather classification model for day ahead short-term photovoltaic power forecasting](https://www.sciencedirect.com/science/article/pii/S0196890418313268)
 
