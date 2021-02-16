@@ -104,17 +104,29 @@ The frequency of usage of DL models is taken from [Web of science](https://apps.
 | 	GNN	| 	223	| 
 ## 4. Popular deep learning libraries for Edge Computing
 [	CNTK	]	(	https://github.com/microsoft/CNTK	)
+
 [	Tensorflow	]	(	https://www.usenix.org/conference/osdi16/technical-sessions/presentation/abadi	)
+
 [	DL4J	]	(	https://deeplearning4j.org/	)
+
 [	MXNet	]	(	https://arxiv.org/abs/1512.01274	)
+
 [	PyTorch	]	(	https://github.com/pytorch/	)
+
 [	CoreML	]	(	https://developer.apple.com/documentation/coreml	)
+
 [	SNPE	]	(	https://developer.qualcomm.com/	)
+
 [	NCNN	]	(	https://github.com/Tencent/ncnn	)
+
 [	MNN	]	(	https://github.com/alibaba/MNN	)
+
 [	Paddle-Mobile	]	(	https://github.com/PaddlePaddle/	)
+
 [	MACE	]	(	https://github.com/PaddlePaddle/Paddle-Lite	)
+
 [	FANN	]	(	https://ieeexplore.ieee.org/document/9016202	)
+
 ## 4. Research Methodology
 The methodology of this review is given in 
 ![Alt text](https://github.com/Mohamedmassaoudi/DL-in-SG/blob/main/Methodology.png)
