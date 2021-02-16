@@ -83,7 +83,7 @@ Use this bibtex to cite this repository:
 - CGAE	[Convolutional Graph Autoencoder: A Generative Deep Neural Network for Probabilistic Spatio-Temporal Solar Irradiance Forecasting](https://ieeexplore.ieee.org/abstract/document/8663347)
 
 
-## 2. DL models and usage frequency
+## 3. DL models and usage frequency
 The frequency of usage of DL models is taken from [Web of science](https://apps.webofknowledge.com/WOS_GeneralSearch_input.do?product=WOS&search_mode=GeneralSearch&SID=C1vyxQ2WRo91BDsgaqd&preferencesSaved=) from 01/01/2015-01/02/2021 using the following keywords: "Model"&
 "power systems"
   
@@ -102,7 +102,19 @@ The frequency of usage of DL models is taken from [Web of science](https://apps.
 | 	RNN	| 	1084	| 
 | 	SNN	| 	573	| 
 | 	GNN	| 	223	| 
-
-## 3. Research Methodology
+## 4. Popular deep learning libraries for Edge Computing
+[	CNTK	]	(	https://github.com/microsoft/CNTK	)
+[	Tensorflow	]	(	https://www.usenix.org/conference/osdi16/technical-sessions/presentation/abadi	)
+[	DL4J	]	(	https://deeplearning4j.org/	)
+[	MXNet	]	(	https://arxiv.org/abs/1512.01274	)
+[	PyTorch	]	(	https://github.com/pytorch/	)
+[	CoreML	]	(	https://developer.apple.com/documentation/coreml	)
+[	SNPE	]	(	https://developer.qualcomm.com/	)
+[	NCNN	]	(	https://github.com/Tencent/ncnn	)
+[	MNN	]	(	https://github.com/alibaba/MNN	)
+[	Paddle-Mobile	]	(	https://github.com/PaddlePaddle/	)
+[	MACE	]	(	https://github.com/PaddlePaddle/Paddle-Lite	)
+[	FANN	]	(	https://ieeexplore.ieee.org/document/9016202	)
+## 4. Research Methodology
 The methodology of this review is given in 
 ![Alt text](https://github.com/Mohamedmassaoudi/DL-in-SG/blob/main/Methodology.png)
