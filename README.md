@@ -6,13 +6,13 @@ Use this bibtex to cite this repository:
 
 @ARTICLE{xx,
   author={Massaoudi. {Mohamed} et al},
-  journal={Journal of Modern Power Systems and Clean Energy}, 
+  journal={IEEE Access}, 
   title={Deep Learning in Smart Grid Technology: A Review of Recent Advancements and Future Prospects}, 
   year={2021},
   volume={xx},
   number={xx},
   pages={1-12},
-  doi={xxxx/MPCE.2021.xxxxx}}
+  doi={xxxx/Access.2021.xxxxx}}
   
   ## 2. Hybrid DL models
   
