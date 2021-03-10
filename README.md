@@ -123,7 +123,7 @@ The frequency of usage of DL models is taken from [Web of science](https://apps.
 
 - [Paddle-Mobile](https://github.com/PaddlePaddle/)
 
-- [MACE](https://github.com/PaddlePaddle/Paddle-Lite)
+- [MACE](https://github.com/XiaoMi/mace)
 
 - [FANN](https://ieeexplore.ieee.org/document/9016202)
 
