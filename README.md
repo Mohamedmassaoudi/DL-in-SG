@@ -5,14 +5,14 @@ The references and materials for "Deep Learning in Smart Grid Technology: A Revi
 Use this bibtex to cite this repository:
 
 @ARTICLE{xx,
-  author={Massaoudi. {Mohamed} et al},
+  author={Massaoudi. {Mohamed}, H. Abu-Rub, S. S. Refaat, I. Chihi, F. S. Oueslati},
   journal={IEEE Access}, 
   title={Deep Learning in Smart Grid Technology: A Review of Recent Advancements and Future Prospects}, 
   year={2021},
   volume={xx},
   number={xx},
   pages={1-12},
-  doi={xxxx/Access.2021.xxxxx}}
+  doi={DOI: 10.1109/ACCESS.2021.3071269}}
   
   ## 2. Hybrid DL models
   
