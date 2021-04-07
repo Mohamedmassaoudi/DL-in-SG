@@ -1,4 +1,4 @@
-# Deep Learning in Smart Grid Technology: A Review of Recent Advancements and Future Prospects
+# [Deep Learning in Smart Grid Technology: A Review of Recent Advancements and Future Prospects](https://ieeexplore.ieee.org/document/9395437)
 The references and materials for "Deep Learning in Smart Grid Technology: A Review of Recent Advancements and Future Prospects".
 
 ## 1. Citation
