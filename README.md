@@ -4,7 +4,7 @@ The references and materials for "Deep Learning in Smart Grid Technology: A Revi
 ## 1. Citation
 Use this bibtex to cite this repository:
 
-@ARTICLE{xx,
+@ARTICLE{
   author={Massaoudi. {Mohamed}, H. Abu-Rub, S. S. Refaat, I. Chihi, F. S. Oueslati},
   journal={IEEE Access}, 
   title={Deep Learning in Smart Grid Technology: A Review of Recent Advancements and Future Prospects}, 
